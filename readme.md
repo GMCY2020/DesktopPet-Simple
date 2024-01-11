@@ -4,7 +4,7 @@
 
 - 作者: GMCY
 - 系列: 桌面宠物
-- 仓库: [GitHub](https://github.com/GMCY2020/) | [Gitee](https://gitee.com/GMCY2020/)
+- 仓库: [GitHub](https://github.com/GMCY2020/DesktopPet-Simple) | [Gitee](https://gitee.com/GMCY2020/DesktopPet-Simple)
 - 话题(GitHub): [python](https://github.com/topics/python)  \ [mihoyo](https://github.com/topics/mihoyo) \ [genshin](https://github.com/topics/genshin)  \ [desktoppet](https://github.com/topics/desktoppet)
 - 创建时间: 2021/01/26
 
